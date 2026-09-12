@@ -1,3 +1,6 @@
 # Runner Goner
 
-Lads there's not much going on here, except maybe some stuff.
+- Student
+- C and Assembler 6502 amateur
+
+I have used AI, I'm not using AI, and won't be using it.
